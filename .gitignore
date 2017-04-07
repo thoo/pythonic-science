@@ -1,3 +1,4 @@
+<<<<<<< 545b8737097e612796ccbf8ec72d722b9e03f0e5
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -89,3 +90,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+=======
+HW
+>>>>>>> title update
